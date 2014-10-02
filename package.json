@@ -1,5 +1,5 @@
 {
-  "name": "jss",
+  "name": "jss-browserify",
   "version": "0.6.0",
   "description": "A simple JavaScript library for retrieving and setting CSS stylesheet rules.",
   "main": "jss.js",
